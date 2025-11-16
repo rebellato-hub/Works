@@ -1,1 +1,1 @@
-# Works
+The first project, "ParolaChiave," simulates communication between client and server, where one listens and the other sends a sentence. The rest was intended to adapt it to the exercise given in school, but it's mainly for simulating client and server. The second PokeApi, also written in Python, makes a request to the site "https://pokeapi.co/" and analyzes the first 20 Pokémon that return, creating classes and XML and JSON files.
